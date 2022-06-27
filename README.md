@@ -1,2 +1,3 @@
-# reactappstarterwithtypescript
-React starter with Typescript
+# weatherappredux
+
+simple weather app with few pages using redux
